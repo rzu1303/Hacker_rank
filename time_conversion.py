@@ -39,6 +39,7 @@ if __name__ == '__main__':
     s = input()
 
     result = timeConversion(s)
+    print(s)
 
     # fptr.write(result + '\n')
 
